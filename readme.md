@@ -1,6 +1,6 @@
 # Code Sample from Twin Cities Code Camp Talk
 
-Here are some sample code pieces that were a part of the talk on NodeJS.  The slides are located at [http://portal.sliderocket.com/AJAUI/Introduction_to_NodeJS](Slide Rocket).
+Here are some sample code pieces that were a part of the talk on NodeJS.  The slides are located at [Slide Rocket](http://portal.sliderocket.com/AJAUI/Introduction_to_NodeJS).
 
 ## Blocking / Non-Blocking I/O
 
